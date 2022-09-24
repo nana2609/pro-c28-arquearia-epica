@@ -1,2 +1,1 @@
-# pro-c28-arquearia-epica
-projeto c28 - arquearia épica, estágio 7 :)
+# PRO-V2-C28-Modelo
